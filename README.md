@@ -16,7 +16,7 @@ With Simple and github pages you can easily create your static blog. Here is wha
 
 1. Create a github account.
 2. Create a repo named `your_user_name.github.io` (remember to check `Initilize and create README`).
-3. Sign in [Simple](http://isnowfy.github.io/simple) with your github account.
+3. Sign in [Simple](http://my2eos.github.io/simple) with your github account.
 4. Click `Initilize` to set up basic files for your static blog site.(maybe a little slow)
 5. Click `Go` and start writing.
 6. Click `New post` to create a new post and when finish writing click `save` to generate the static page.
